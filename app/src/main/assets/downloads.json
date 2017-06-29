@@ -302,6 +302,25 @@
       "X509"
     ],
     "link": "https://raw.githubusercontent.com/Grarak/KernelAdiutor/master/download/x3.json"
+  },
+   {
+    "vendor": [
+      "elephone",
+      "elephone"
+    ],
+    "device": [
+      "c101v92_jbaol_elephone",
+      "Elephone P2000",
+      "a5ul",
+      "a5dwg",
+      "a5dug",
+      "htc_a5",
+      "htc_a5chl",
+      "htc_a5ul",
+      "htc_a5dwg",
+      "htc_a5dug"
+    ],
+    "link": ""
   }
 ]
 
